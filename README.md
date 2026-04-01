@@ -1,4 +1,4 @@
-# TextToMidi
+# M4L TextToMidi
 
 Convert text into MIDI notes by drawing characters directly in the piano roll.
 
